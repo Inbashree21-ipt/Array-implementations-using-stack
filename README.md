@@ -1,4 +1,4 @@
-STACK ARRAY
+``` pyhton
 class BookStack:
     def __init__(self):
         self.stack = []
