@@ -1,4 +1,4 @@
-``` pyhton
+``` python
 class BookStack:
     def __init__(self):
         self.stack = []
